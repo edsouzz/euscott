@@ -22,4 +22,6 @@ USA / BR | 📍 Guarulhos, sp | 2k3 / 18yo | 📚(2/3) Tec. em Desenvolvimento W
   <a href = "mailto:esouza.es03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <div>
  
+    ##
+    
    É um prazer ter-los em meu perfil! | ⛓🐉
