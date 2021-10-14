@@ -1,5 +1,5 @@
 ### Olá, eu sou o Eduardo (ou Scott se preferirem)
-USA / BR | 📍 Guarulhos, sp | 2k3 / 18yo | 📚(2/3) Tec. em Desenvolvimento Web Fullstack.
+USA / BR | 📍 Guarulhos, sp | 2k3 / 18yo | 📚(3/3) Tec. em Desenvolvimento Web Fullstack.
 
 <div>
   <a href="https://github.com/euscott">
