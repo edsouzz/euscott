@@ -21,4 +21,4 @@ USA / BR | 📍 Guarulhos, sp | 2k3 / 18yo | 📚(3/3) Tec. em Desenvolvimento W
   <a href="https://www.linkedin.com/in/eduardo-gonçalves-de-souza-aa7831179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:esouza.es03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <div>
-   É um prazer ter-los em meu perfil! | ⛓🐉
+   É um prazer ter-los em meu perfil, voltem sempre! | ⛓🐉
