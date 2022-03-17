@@ -1,5 +1,5 @@
 ### Olá, eu sou o Eduardo (ou Scott se preferirem)!
-USA / BR | 📍 Guarulhos, sp | 2k3 / 19yo | 👨🏻‍🎓(1/4) Análise e Desenvolvimento de Softwares - Estácio. | 📚(3/3) Tec. em Desenvolvimento Web Fullstack - Senai. | Cursando Inglês a aproximadamente 4 anos e meio (Avançado) - Fisk. 
+USA / BR | 📍 Guarulhos, sp | 2k3 / 19yo | 👨🏻‍🎓(1/4) Análise e Desenvolvimento de Softwares - Estácio. | 📚(3/3) Tec. em Desenvolvimento Web Fullstack - Senai. | Cursando Inglês (Avançado) a aproximadamente 4 anos e 6 meses - Fisk. 
 
 <div>
   <a href="https://github.com/euscott">
