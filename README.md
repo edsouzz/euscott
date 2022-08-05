@@ -1,5 +1,5 @@
 ### Olá, eu sou o Eduardo (ou Scott se preferirem)!
-USA / BR | 📍 Guarulhos, sp | 2k3 / 19yo | 👨🏻‍🎓(1/5) Análise e Desenvolvimento de Sistemas - Estácio. | 📚 Tec. em Desenvolvimento Web Fullstack, Senai - 2022. | Cursando Inglês (Avançado) a aproximadamente 4 anos e 6 meses - Fisk. 
+📍 Guarulhos, sp | 19yo | 👨🏻‍🎓(2/5) Análise e Desenvolvimento de Sistemas - Estácio. | 📚 Formado em Tec. em Desenvolvimento Web Fullstack pelo Senai, 2022. | Cursando Inglês (Avançado) a aproximadamente 4 anos e 6 meses pela Fisk. 
 
 <div>
   <a href="https://github.com/euscott">
@@ -21,4 +21,4 @@ USA / BR | 📍 Guarulhos, sp | 2k3 / 19yo | 👨🏻‍🎓(1/5) Análise e Des
   <a href="https://www.linkedin.com/in/eduardo-gonçalves-de-souza-aa7831179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:esouza.es03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <div>
-   É um prazer ter-los em meu perfil, voltem sempre! | ⛓🐉
+   É um prazer ter-los em meu perfil, voltem sempre e acompanhem meus códigos loucos kkkk | ⛓🐉
