@@ -12,7 +12,7 @@
   <img align="center" alt="euscott" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="euscott" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="euscott" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="right" alt="scott-hanma" src="https://tenor.com/view/cat-type-fast-busy-kitten-gif-16655467.gif" height="150" width="280">
+  <img align="right" alt="scott-hanma" src="https://c.tenor.com/gSfixE9nP7EAAAAC/cat-type.gif" height="150" width="280">
 </div>
   
   ##
