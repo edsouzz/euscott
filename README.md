@@ -7,11 +7,11 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euscott&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="euscott" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
   <img align="center" alt="euscott" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="euscott" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="euscott" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="euscott" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" alt="euscott" heigth="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
   <img align="right" alt="scott-hanma" src="https://tenor.com/view/cat-type-fast-busy-kitten-gif-16655467.gif" height="150" width="280">
 </div>
   
