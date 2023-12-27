@@ -7,7 +7,6 @@ Sou de Guarulhos - SP, atualmente tenho 20 anos, curso Análise e desenvolviment
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euscott&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="euscott" heigth="27" width="37" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
   <img align="center" alt="euscott" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="euscott" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="euscott" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
