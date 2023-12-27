@@ -1,5 +1,5 @@
 ### Olá, eu sou o Eduardo!
-Sou de Guarulhos - SP, tenho 20 anos, curso Análise e desenvolvimento de sistemas pela Estácio (5/5), sou formando técnico em Desenvolvimento Web Fullstack pelo Senai (2022) cursei inglês por aproximadamente 6 anos pelas Fisk, digo que tenho inglês avançado por que a vida é uma constante aprendizagem e acho que não devo me classificar como fluente ainda (apesar de saber muito hahaha) atualmente estou aprendendo francês e voltando a codar depois de quase 2 anos parado.
+Sou de Guarulhos - SP, tenho 20 anos, curso Análise e desenvolvimento de sistemas pela Estácio (5/5), sou formando técnico em Desenvolvimento web fullstack pelo Senai (2022) cursei inglês por aproximadamente 6 anos pelas Fisk, digo que tenho inglês avançado por que a vida é uma constante aprendizagem e acho que não devo me classificar como fluente ainda (apesar de saber muito hahaha) atualmente estou aprendendo francês e voltando a codar depois de quase 2 anos parado.
 
 <div>
   <a href="https://github.com/euscott">
